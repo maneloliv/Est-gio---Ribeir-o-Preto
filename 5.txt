@@ -1,0 +1,18 @@
+1 passo: Ligue todas as lâmpadas.
+2 passo: Desligue apenas uma das lâmpadas.
+3 passo: Vá até a sala das lâmpadas e verifique qual das salas está escura ou com a luz apagada.
+4 passo: Volte para a sala dos interruptores.
+5 passo: Ligue a lâmpada que você apagou anteriormente e desligue outro interruptor.
+6 passo: Vá novamente verificar qual sala está escura ou com a luz apagada, assim usando sua última ida.
+7 passo: Agora, sabendo quais dois interruptores você apagou, você saberá a que salas eles se referem.
+8 passo: Por eliminação, identifique que o interruptor que não foi apagado é o da sala que sobrou. Assim, você descobrirá qual interruptor controla cada sala, usando apenas duas idas.
+
+-------------------------------------------------------
+
+Outra forma: Se for possível tocar nas lâmpadas:
+
+Desligue todas as lâmpadas e deixe apenas uma lâmpada ligada.
+Após algum tempo, apague e ligue outra lâmpada.
+Vá até a sala das lâmpadas e verifique qual está quente, mas apagada. Isso significa que ela era do primeiro interruptor que foi ligado.
+Verifique qual está acesa; isso significa que é do interruptor que você deixou ligado.
+Por fim, a que está apagada e fria significa que é a do interruptor que ficou desligado e não foi ligado nenhuma vez.
